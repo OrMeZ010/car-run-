@@ -146,4 +146,3 @@ class Jeu:
             pyxel.text(self.taille_fenetre_x/2.4,self.taille_fenetre_y/2 - 20, 'JEU TERMINE', 10)
 
 Jeu()
-2121212
